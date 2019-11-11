@@ -2,8 +2,8 @@
 apache、php、mysql；
 
 
-wampServer-NTS-PHP-7.1.11 软件版本：Apache-2.4.29、Php-7.1.11、Mysql-5.5.56、Memcache-1.2.6;  
-wampServer-NTS-PHP-7.2.13 软件版本：Apache-2.4.29、Php-7.1.13、Mysql-5.5.56、Memcache-1.2.6;  
+wampServerNTS_X86 软件版本：Apache-2.4.29、Php-7.1.11、Mysql-5.5.56、Memcache-1.2.6;  
+wampServerNTS_X64 软件版本：Apache-2.4.44、Php-7.1.33、Mysql-5.5.56、Memcache-1.2.6;  
 
 1.Mysql数据库启用Innodb引擎，集成多数据库管理工具，数据库管理地址为 ../adminer 默认用户名 root 密码为 空；  
 2.一般情况下，我个人不推荐新手更改组件配置文件或对组件进行升级操作，否则可能会导致wampServerNTS无法正常开启；  
