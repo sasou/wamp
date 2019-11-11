@@ -16,4 +16,8 @@ wampServerNTS_X64 软件版本：Apache-2.4.44、Php-7.1.33、Mysql-5.5.56、Mem
 9.自定义http端口，启动后会自动加入系统服务，开机自动运行；  
 10.虚拟主机管理：增加、修改、删除虚拟主机，自动修改host文件，点击右键可以访问虚拟主机；  
 
+安装运行时组件：
+    Visual C++ Redistributable Package 安装运行使用 Visual Studio 2015 生成的 C++ 应用程序所需的运行时组件。
+    https://www.microsoft.com/zh-CN/download/details.aspx?id=48145
+
 <a href="https://info.flagcounter.com/AEYx"><img src="https://s11.flagcounter.com/count2/AEYx/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
