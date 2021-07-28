@@ -1,6 +1,3 @@
 191216 14:18:32 [Note] Event Scheduler: Loaded 0 events
 191216 14:18:32 [Note] D:\soft\wampServer-php7.3_x64_nts\bin\mysqld.exe: ready for connections.
 Version: '5.5.56'  socket: ''  port: 3306  MySQL Community Server (GPL)
-210205 10:15:14 [Note] Event Scheduler: Loaded 0 events
-210205 10:15:14 [Note] F:\github\wamp\wampServer-php7.4_x64_nts\bin\mysqld.exe: ready for connections.
-Version: '5.5.56'  socket: ''  port: 3306  MySQL Community Server (GPL)

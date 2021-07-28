@@ -2,7 +2,7 @@
 apache、php、mysql；
 
 
-wampServer-php7.4_x64_nts 软件版本：Apache-2.4.29、Php-7.4.48、Mysql-5.5.56、Memcache-1.2.6;  
+wampServer-php7.4_x64_nts 软件版本：Apache-2.4.29、Php-7.4.21、Mysql-5.5.56、Memcache-1.2.6;  
 wampServer-php8.0_x64_nts 软件版本：Apache-2.4.44、Php-8.0.2、Mysql-5.5.56、Memcache-1.2.6;  
 
 1.Mysql数据库启用Innodb引擎，集成多数据库管理工具，数据库管理地址为 ../adminer 默认用户名 root 密码为 空；  
