@@ -1,0 +1,10 @@
+[Wed Jul 28 12:54:25.699225 2021] [mpm_winnt:notice] [pid 10128:tid 648] AH00455: Apache/2.4.41 (Win64) mod_fcgid/2.3.9 configured -- resuming normal operations
+[Wed Jul 28 12:54:25.699225 2021] [mpm_winnt:notice] [pid 10128:tid 648] AH00456: Apache Lounge VC14 Server built: Aug 12 2019 10:48:01
+[Wed Jul 28 12:54:25.699225 2021] [core:notice] [pid 10128:tid 648] AH00094: Command line: 'F:/github/wamp/wampServer-php8.0_x64_nts/bin/httpd.exe -d F:/github/wamp/wampServer-php8.0_x64_nts'
+[Wed Jul 28 12:54:27.981125 2021] [core:warn] [pid 34060:tid 604] AH00098: pid file F:/github/wamp/wampServer-php8.0_x64_nts/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Jul 28 12:54:27.983120 2021] [mpm_winnt:notice] [pid 34060:tid 604] AH00455: Apache/2.4.41 (Win64) mod_fcgid/2.3.9 configured -- resuming normal operations
+[Wed Jul 28 12:54:27.983120 2021] [mpm_winnt:notice] [pid 34060:tid 604] AH00456: Apache Lounge VC14 Server built: Aug 12 2019 10:48:01
+[Wed Jul 28 12:54:27.983120 2021] [core:notice] [pid 34060:tid 604] AH00094: Command line: 'F:/github/wamp/wampServer-php8.0_x64_nts/bin/httpd.exe -d F:/github/wamp/wampServer-php8.0_x64_nts'
+[Wed Jul 28 12:54:27.988105 2021] [mpm_winnt:notice] [pid 34060:tid 604] AH00418: Parent: Created child process 20772
+[Wed Jul 28 12:54:29.298629 2021] [mpm_winnt:notice] [pid 20772:tid 540] AH00354: Child: Starting 1024 worker threads.
+[Wed Jul 28 12:55:01.532637 2021] [mpm_winnt:notice] [pid 34060:tid 604] AH00422: Parent: Received shutdown signal -- Shutting down the server.

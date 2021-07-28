@@ -1,0 +1,35 @@
+210728 12:54:25 InnoDB: The InnoDB memory heap is disabled
+210728 12:54:25 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+210728 12:54:25 InnoDB: Compressed tables use zlib 1.2.3
+210728 12:54:25 InnoDB: Initializing buffer pool, size = 128.0M
+210728 12:54:25 InnoDB: Completed initialization of buffer pool
+InnoDB: The first specified data file .\ibdata1 did not exist:
+InnoDB: a new database to be created!
+210728 12:54:25  InnoDB: Setting file .\ibdata1 size to 10 MB
+InnoDB: Database physically writes the file full: wait...
+210728 12:54:25  InnoDB: Log file .\ib_logfile0 did not exist: new to be created
+InnoDB: Setting log file .\ib_logfile0 size to 5 MB
+InnoDB: Database physically writes the file full: wait...
+210728 12:54:25  InnoDB: Log file .\ib_logfile1 did not exist: new to be created
+InnoDB: Setting log file .\ib_logfile1 size to 5 MB
+InnoDB: Database physically writes the file full: wait...
+InnoDB: Doublewrite buffer not found: creating new
+InnoDB: Doublewrite buffer created
+InnoDB: 127 rollback segment(s) active.
+InnoDB: Creating foreign key constraint system tables
+InnoDB: Foreign key constraint system tables created
+210728 12:54:27  InnoDB: Waiting for the background threads to start
+210728 12:54:28 InnoDB: 5.5.56 started; log sequence number 0
+210728 12:54:28 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+210728 12:54:28 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+210728 12:54:28 [Note] Server socket created on IP: '0.0.0.0'.
+210728 12:54:28 [Note] Event Scheduler: Loaded 0 events
+210728 12:54:28 [Note] F:/github/wamp/wampServer-php8.0_x64_nts/bin/mysqld.exe: ready for connections.
+Version: '5.5.56-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+210728 12:55:01 [Note] F:/github/wamp/wampServer-php8.0_x64_nts/bin/mysqld.exe: Normal shutdown
+
+210728 12:55:01 [Note] Event Scheduler: Purging the queue. 0 events
+210728 12:55:01  InnoDB: Starting shutdown...
+210728 12:55:02  InnoDB: Shutdown completed; log sequence number 1595675
+210728 12:55:02 [Note] F:/github/wamp/wampServer-php8.0_x64_nts/bin/mysqld.exe: Shutdown complete
+
