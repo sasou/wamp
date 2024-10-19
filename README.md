@@ -1,12 +1,12 @@
 # window系统：php开发集成环境；
 apache、php、mysql；
 
-
+wampServer-php8.1_x64_nts 软件版本：Apache-2.4.44、Php-8.1.30、Mysql-5.5.56、Memcache-1.2.6;  
 wampServer-php7.4_x64_nts 软件版本：Apache-2.4.29、Php-7.4.21、Mysql-5.5.56、Memcache-1.2.6;  
-wampServer-php8.0_x64_nts 软件版本：Apache-2.4.44、Php-8.0.8、Mysql-5.5.56、Memcache-1.2.6;  
+
 
 1.Mysql数据库启用Innodb引擎，集成多数据库管理工具，数据库管理地址为 ../adminer 默认用户名 root 密码为 空；  
-2.一般情况下，我个人不推荐新手更改组件配置文件或对组件进行升级操作，否则可能会导致wampServerNTS无法正常开启；  
+2.一般情况下不推荐新手更改组件配置文件或对组件进行升级操作，否则可能会导致wampServerNTS无法正常开启；  
 3.网站根目录为 www/ 文件夹，推荐使用虚拟主机功能单独设置目录；  
 4.请勿在在含有中文路径或目录下使用wampServerNTS，否则会造成组件无法启动等问题；  
 5.wampServerNTS支持IPv6，查看本机IPv6地址可以用 ipconfig 命令或者直接登陆 ipv6-test.com；  
