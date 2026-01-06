@@ -4,7 +4,7 @@ $memcache = new Memcached;
 $memcache->addServer('localhost', 11211) or die ("Could not connect"); 
 
 $version = $memcache->getVersion(); 
-echo "Memcache服务器版本: ".print_r($version)."<br/>\n"; 
+echo "Memcached服务器版本: ".print_r($version)."<br/>\n"; 
 
 $tmp_object = new stdClass; 
 $tmp_object->str_attr = '缓存测试文本'; 
