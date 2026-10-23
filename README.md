@@ -1,6 +1,7 @@
 # window系统：php开发集成环境；
 apache、php、mysql；
 
+wampServer-php8.2_x64_nts 软件版本：Apache-2.4.57、Php-8.2.35、Mysql-5.5.56、Memcache-1.2.6;  
 wampServer-php8.1_x64_nts 软件版本：Apache-2.4.44、Php-8.1.30、Mysql-5.5.56、Memcache-1.2.6;  
 wampServer-php7.4_x64_nts 软件版本：Apache-2.4.29、Php-7.4.21、Mysql-5.5.56、Memcache-1.2.6;  
 
